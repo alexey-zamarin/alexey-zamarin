@@ -5,18 +5,23 @@
 ### :man_technologist: Обо мне:
 
 Я начинающий аналитик данных. 
-Мой путь в IT начался с прохождения курсов по Python на Stepik. После этого я уже не смог остановиться. Я погрузился в библиотеки Pandas, NumPy, Matplotlib, Seaborn. Я изучил SQL, влюбился в оконные функции. Изучил основы статистики, знаю, что такое нормальное распределение, и зачем нужен p-value. 
-В настоящий момент я в поиске работы!
+Мой путь в IT начался с прохождения курсов по Python на Stepik. Дальше я погрузился в библиотеки Pandas, NumPy, SciPy, Matplotlib, Seaborn; теперь я умею выполнять предобработку данных, проводить исследовательский анализ данных и проверять гипотезы. С помощью SQL я умею доставать данных из баз данных, владею агрегацией и группировкой данных, а также я делал запросы в Redash с применением временных таблиц и оконных функций.
+Изучил основы статистики, знаю, что такое нормальное распределение, и зачем нужен p-value. 
+
+В настоящий момент я в поиске работы!  
 
 
 
-- :telescope: Завершил курсы по Python, SQL и математике на Karpov.Courses.
+
+- :telescope: Успешно закончил симулятор аналитика на Karpov.Courses.
 
 - :seedling: Владею основами статистики и A/B тестирования.
 
-- :zap: Знаком с инструментами визуализации: Tableau, Power BI, DataLens.
+- :zap: Строю дашборды с помощью инструментов визуализации: Tableau, DataLens, Superset
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-zamarinalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/camerton18) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexzamarin1996@gmail.com)
+- :telescope: С помощью ETL запросов автомотизирую отчётность, отправляю в телеграм репорты и алерты. 
+
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Alexey_Zamarin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/camerton18) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexzamarin1996@gmail.com)
 
 ---
 
