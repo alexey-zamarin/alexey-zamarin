@@ -20,7 +20,9 @@
 
 - :zap: Строю дашборды с помощью инструментов визуализации: Tableau, DataLens, Superset
 
-- 💻: С помощью ETL запросов автомотизирую отчётность, отправляю в телеграм репорты и алерты. 
+- 💻: С помощью ETL запросов автомотизирую отчётность, отправляю в телеграм репорты и алерты.
+
+- ❗: [Ссылка на резюме](https://github.com/alexey-zamarin/Study_projects/blob/main/0.%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5/%D0%97%D0%B0%D0%BC%D0%B0%D1%80%D0%B8%D0%BD_%D0%A0%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5.pdf)
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-Alexey_Zamarin-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/camerton18) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:alexzamarin1996@gmail.com)
 
